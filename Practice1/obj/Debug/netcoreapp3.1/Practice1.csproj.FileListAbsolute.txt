@@ -1,0 +1,14 @@
+C:\Users\Aieos_\Documents\code\Practice1\Practice1\bin\Debug\netcoreapp3.1\Practice1.exe
+C:\Users\Aieos_\Documents\code\Practice1\Practice1\bin\Debug\netcoreapp3.1\Practice1.deps.json
+C:\Users\Aieos_\Documents\code\Practice1\Practice1\bin\Debug\netcoreapp3.1\Practice1.runtimeconfig.json
+C:\Users\Aieos_\Documents\code\Practice1\Practice1\bin\Debug\netcoreapp3.1\Practice1.runtimeconfig.dev.json
+C:\Users\Aieos_\Documents\code\Practice1\Practice1\bin\Debug\netcoreapp3.1\Practice1.dll
+C:\Users\Aieos_\Documents\code\Practice1\Practice1\bin\Debug\netcoreapp3.1\Practice1.pdb
+C:\Users\Aieos_\Documents\code\Practice1\Practice1\obj\Debug\netcoreapp3.1\Practice1.csproj.AssemblyReference.cache
+C:\Users\Aieos_\Documents\code\Practice1\Practice1\obj\Debug\netcoreapp3.1\Practice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aieos_\Documents\code\Practice1\Practice1\obj\Debug\netcoreapp3.1\Practice1.AssemblyInfoInputs.cache
+C:\Users\Aieos_\Documents\code\Practice1\Practice1\obj\Debug\netcoreapp3.1\Practice1.AssemblyInfo.cs
+C:\Users\Aieos_\Documents\code\Practice1\Practice1\obj\Debug\netcoreapp3.1\Practice1.csproj.CoreCompileInputs.cache
+C:\Users\Aieos_\Documents\code\Practice1\Practice1\obj\Debug\netcoreapp3.1\Practice1.dll
+C:\Users\Aieos_\Documents\code\Practice1\Practice1\obj\Debug\netcoreapp3.1\Practice1.pdb
+C:\Users\Aieos_\Documents\code\Practice1\Practice1\obj\Debug\netcoreapp3.1\Practice1.genruntimeconfig.cache
